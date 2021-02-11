@@ -1,0 +1,5 @@
+# ninja log v5
+3	3803	1589306202	CMakeFiles/native-lib.dir/native-lib.cpp.o	e6d33ec38be73f8f
+3807	4077	1589306202	/Users/songjaewon/Desktop/Programing/AndroidStudioProjects/JayCameraApp1/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	1bd4cbd9156a2629
+4	1559	1590042779	CMakeFiles/native-lib.dir/native-lib.cpp.o	e6d33ec38be73f8f
+1560	1785	1590042779	/Users/songjaewon/Desktop/Programing/AndroidStudioProjects/JayCameraApp1/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	1bd4cbd9156a2629

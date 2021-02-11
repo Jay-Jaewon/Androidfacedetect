@@ -1,0 +1,7 @@
+# ninja log v5
+1623	1715	1590040766	/Users/songjaewon/Desktop/Programing/AndroidStudioProjects/JayCameraApp1/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	e21d8755f69962d8
+1	1623	1590040766	CMakeFiles/native-lib.dir/native-lib.cpp.o	9e0a97331ed3842d
+1	1731	1590042289	CMakeFiles/native-lib.dir/native-lib.cpp.o	9e0a97331ed3842d
+1731	1831	1590042289	/Users/songjaewon/Desktop/Programing/AndroidStudioProjects/JayCameraApp1/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	e21d8755f69962d8
+1	1600	1590042807	CMakeFiles/native-lib.dir/native-lib.cpp.o	9e0a97331ed3842d
+1600	1702	1590042807	/Users/songjaewon/Desktop/Programing/AndroidStudioProjects/JayCameraApp1/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	e21d8755f69962d8

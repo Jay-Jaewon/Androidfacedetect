@@ -1,0 +1,3 @@
+/Users/songjaewon/Desktop/Programing/AndroidStudioProjects/JayCameraApp1/app/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+/Users/songjaewon/Desktop/Programing/AndroidStudioProjects/JayCameraApp1/app/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+/Users/songjaewon/Desktop/Programing/AndroidStudioProjects/JayCameraApp1/app/.cxx/cmake/release/x86/CMakeFiles/native-lib.dir
